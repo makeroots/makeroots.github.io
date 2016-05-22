@@ -61,7 +61,7 @@
  #banner div.paragraph a:hover { text-decoration: none; }
  #banner p a:hover { text-decoration: none; }
  #banner-cover { background: rgba(42, 186, 174, .80); }
- .wsite-background { background: url(theme/images/default-bg.jpg?1463896462) no-repeat center center; background-size:cover; }
+ .wsite-background { background: url(theme/images/default-bg.jpg?1463899069) no-repeat center center; background-size:cover; }
  .landing-page #banner { height:550px; }
  .tall-header-page #banner { height: 375px; }
  .short-header-page #banner { height: 250px; }
@@ -145,7 +145,7 @@
  #commentPostArea .field textarea { font-family: 'Roboto', sans-serif; font-size: 15px; font-weight:100; color: #2b2b2b; background: #fff !important; padding: 10px !important; border:1px solid #c1c1c1; border-radius: 3px; height: 49px !important; line-height: 19px !important; }
  #commentPostArea .field input { font-family: 'Roboto', sans-serif !important; font-size: 15px !important; font-weight:100; color: #2b2b2b !important; background: #fff !important; padding: 5px 10px !important; border:1px solid #c1c1c1 !important; border-radius: 3px; height: 29px !important; line-height: 29px !important; }
  .blogCommentHeading .blogCommentHeadingInner, .blogCommentWrap, .blogCommentHeading, .blogCommentHeading .blogCommentAuthor { background:none !important; }
- .blogCommentWrap { background: url(theme/images/comment-bubble-v1.png?1463896462) no-repeat top left !important; display: block; padding-left: 60px; }
+ .blogCommentWrap { background: url(theme/images/comment-bubble-v1.png?1463899069) no-repeat top left !important; display: block; padding-left: 60px; }
  .blogCommentHeading { margin:0px; }
  .blogCommentHeading .blogCommentAuthor span.name, .blogCommentHeading .blogCommentAuthor a.name { color: #2b2b2b !important; font-size:14px; text-transform: capitalize; }
  .blogCommentHeading .blogCommentDate { color: #8e8e8e; float: left; font-size: 14px; padding: 0 9px 0 15px; text-align: left; text-shadow: none; text-transform:uppercase; }
@@ -162,8 +162,8 @@
  .wsite-name-field { float: left; }
  .wsite-com-product-option-label input, .form-radio-container input { display: none !important; }
  .wsite-com-product-option-label span:before, .form-radio-container label:before { content: ''; display: inline-block; margin: 0 5px 0 0; vertical-align: middle; }
- .wsite-com-product-option-label input[type="radio"] ~ span:before, .form-radio-container input[type="radio"] ~ label:before { background: transparent url(theme/images/radio-v1.png?1463896462) no-repeat left top; width: 22px; height: 22px; background-size: 22px auto !important; }
- .wsite-com-product-option-label input[type="checkbox"] ~ span:before, .form-radio-container input[type="checkbox"] ~ label:before { background: transparent url(theme/images/checkbox-v1.png?1463896462) no-repeat center top; width: 23px; height: 24px; background-size: 23px auto !important; }
+ .wsite-com-product-option-label input[type="radio"] ~ span:before, .form-radio-container input[type="radio"] ~ label:before { background: transparent url(theme/images/radio-v1.png?1463899069) no-repeat left top; width: 22px; height: 22px; background-size: 22px auto !important; }
+ .wsite-com-product-option-label input[type="checkbox"] ~ span:before, .form-radio-container input[type="checkbox"] ~ label:before { background: transparent url(theme/images/checkbox-v1.png?1463899069) no-repeat center top; width: 23px; height: 24px; background-size: 23px auto !important; }
  .wsite-com-product-option-label input[type="radio"]:checked ~ span:before, .form-radio-container input[type="radio"]:checked ~ label:before { background-position: 0 -22px; }
  .wsite-com-product-option-label input[type="checkbox"]:checked ~ span:before, .form-radio-container input[type="checkbox"]:checked ~ label:before { background-position: 0 -24px; }
  .wsite-button, .wsite-editor .wsite-button { display: inline-block; padding: 0; color: #26cfc1 !important; font-size: .9em !important; background: #fff; background-image: none !important; border: 2px solid #26cfc1; border-radius: 6px; text-transform: uppercase; transition: background-color 0.65s ease, border 0.65s ease; }
