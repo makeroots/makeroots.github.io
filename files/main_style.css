@@ -60,7 +60,7 @@
  #banner p a { color: #fff; text-decoration: underline; }
  #banner div.paragraph a:hover { text-decoration: none; }
  #banner p a:hover { text-decoration: none; }
- #banner-cover { background: rgba(42, 186, 174, .80); }
+ #banner-cover { background: rgba(42, 186, 174, .40); }
  .wsite-background { background: url(theme/images/default-bg.jpg?1463899069) no-repeat center center; background-size:cover; }
  .landing-page #banner { height:550px; }
  .tall-header-page #banner { height: 375px; }
