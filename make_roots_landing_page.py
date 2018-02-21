@@ -48,7 +48,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                         doc.stag('br')
                         doc.stag('br')
                         with tag('p', klass="lead"):
-                            text('We are building a space to connect passionate people and nonprofits that are tackling the world’s biggest challenges.')
+                            text('We are building a space to connect passionate people and nonprofits that are tackling our world\'s biggest challenges.')
 
         # Page 2
         with tag('section', id="page2", klass="screener"):
