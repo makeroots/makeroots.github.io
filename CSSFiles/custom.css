@@ -1,3 +1,15 @@
+/* General
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: Futura-Medium
+} */
+h1, h3 {
+    font-size: 64px;
+}
+h2 {
+    color: green;
+    font-size: 36px;
+}
+
 /* Section maintenance */
 .padder {
     padding-top: 15vh;
@@ -62,12 +74,12 @@ h1, h2 {
 .greentext {
     color:green; opacity:0.5; font-style:bold; font-size:160px;
 }
-
-/* Page 5 */
-#page5 div div div {
-    p {
-        color: white;
-    }
+.bottom-column
+{
+    height: 50%;
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
 }
 
 /* Art */

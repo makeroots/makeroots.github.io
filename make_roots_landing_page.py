@@ -69,9 +69,9 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                     doc.stag('br')
             def make_page_2_list_item(NUMBER, TITLE, CONTENT):
                 with tag('div', klass='row'):
-                    with tag('div', klass='col-md-offset-1 col-md-3 col-sm-2',
+                    with tag('div', klass='col-md-offset-1 col-md-2 col-sm-2',
                              style="border-bottom: 4px solid green"):
-                        with tag('p', klass="lead", style='text-align:right; margin: 0; margin-top: 20px;'):
+                        with tag('h2', style='margin: 0; margin-top: 20px;'):
                             text(NUMBER)
                     with tag('div', klass='col-md-8 col-sm-10'):
                         with tag('h2'):
@@ -103,7 +103,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                 with tag('div', klass="col-md-5 mx-auto"):
                     def make_page_3_list_item(ITEM):
                         doc.stag('br')
-                        with tag('p', klass="lead", style="font-size:30px;"):
+                        with tag('h3'):
                             text(ITEM)
                     make_page_3_list_item('Money.')
                     make_page_3_list_item('Time.')
@@ -111,8 +111,8 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                     make_page_3_list_item('Passion.')
                     make_page_3_list_item('Love.')
                     make_page_3_list_item('Anything.')
-                with tag('div', klass="col-md-offset-2 col-md-5 mx-auto"):
-                    with tag('p', style="text-align:right;"):
+                with tag('div', klass="col-md-offset-2 col-md-5 mx-auto bottom-column"):
+                    with tag('h4', style="text-align:right; color:black;"):
                         text('Lorem ipsum dolor sit amet')
 
         def page_5():
@@ -131,7 +131,41 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                              style="background-color:#BF94E4; border-color:white; color:white; font-size 20px;"):
                         text('Chat with us!')
                 with tag('div', klass='col-md-6 mx-auto', id='overlay', style="display:none;"):
-                    text("I am an email form!")
+                    email_form()
+
+        def email_form():
+            global doc, tag, text
+            with tag('form', id="contact-form", method="post", action="ContactFormFiles/contact.php", role="form"):
+                with tag('div', klass="messages"): pass
+                with tag('div', klass="controls"):
+                    def make_form_input(FORM_TYPE, TEXT, PARAM, PLACEHOLDER, ERROR):
+                        with tag('div', klass="col-md-6"):
+                            with tag('div', klass="form-group"):
+                                with tag('label', for_w=FORM_TYPE):
+                                    text(TEXT)
+                                doc.stag('input', id="form_name", type="text", name=PARAM, klass="form-control", placeholder=PLACEHOLDER, required="required", data_error=ERROR)
+                                with tag('div', klass="help-block with-errors"): pass
+                    with tag('div', klass="row"):
+                        make_form_input("form_name", 'Firstname *', "name", "Please enter your firstname *", "Firstname is required.")
+                        make_form_input("form_lastname", 'Lastname *', "surname", "Please enter your lastname *", "Lastname is required.")
+                    with tag('div', klass="row"):
+                        make_form_input("form_email", "Email *", "email", "Please enter your email *", "Valid email is required.")
+                        make_form_input("form_phone", "Phone *", "phone", "Please enter your phone *", "Valid phone is required.")
+                    with tag('div', klass="row"):
+                        with tag('div', klass="col-md-12"):
+                            with tag('div', klass="form-group"):
+                                with tag('label', for_w="form_message"):
+                                    text('Message *')
+                                with tag('textarea', id="form_message", name="message", klass="form-control", placeholder="Message for me *", rows="4", required="required", data_error="Please,leave us a message."): pass
+                                with tag('div', klass="help-block with-errors"): pass
+                        with tag('div', klass="col-md-12"):
+                            doc.stag('input', type="submit", klass="btn btn-success btn-send", value="Send message")
+                    with tag('div', klass="row"):
+                        with tag('div', klass="col-md-12"):
+                            with tag('p', klass="text-muted"):
+                                with tag('strong'):
+                                    text('*')
+                                text(' These fields are required.')
 
         with tag('div', id="fullpage"):
             make_page(page_1, 1)
@@ -139,7 +173,8 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
             make_page(page_3, 3)
             make_page(page_4, 4)
             make_page(page_5, 5)
-        with tag('script', src="fullPage.js-master/fullPageInit.js"): pass
+        with tag('script', src="JSFiles/fullPageInit.js"): pass
+        with tag('script', src="ContactFormFiles/contact.js"): pass
 
 
 
@@ -148,6 +183,8 @@ testing_file = open('index.html', 'w')
 processed_string = doc.getvalue()
 processed_string = processed_string.replace('aria_hidden', 'aria-hidden')
 processed_string = processed_string.replace('data_gr_c_s_loaded', 'data-gr-c-s-loaded')
+processed_string = processed_string.replace('for_w', 'for')
+processed_string = processed_string.replace('data_error', 'data-error')
 processed_string = processed_string.replace('<', '\r<')
 processed_string = processed_string[:15] + processed_string[17:]
 testing_file.write(processed_string)
