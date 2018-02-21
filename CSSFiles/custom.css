@@ -1,0 +1,119 @@
+/* Section maintenance */
+.padder {
+    padding-top: 15vh;
+}
+
+.screener {
+    height: 100vh;
+    position: relative;
+}
+.bg {
+/* Full height */
+    height: 100%;
+/* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1 {background-image: url("../Pictures/bg_1.jpg");}
+.bg2 {background-image: url("../Pictures/bg_2.jpg");}
+.bg3 {background-image: url("../Pictures/bg_3.jpg");}
+.bg4 {background-image: url("../Pictures/bg_4.jpg");}
+.bg5 {background-image: url("../Pictures/bg_5.jpg");}
+
+.section-content {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+
+/* Navbar */
+.navbar-fixed-left {
+    position: fixed;
+    border-radius: 0;
+    height: 100%;
+    float: center;
+    z-index: 1;
+    width: 30px;
+}
+.main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+.fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+}
+.fa {
+    color: grey;
+}
+.container {
+    margin-left: 5%;
+    width: 90%;
+}
+h1, h2 {
+    font-style: italic;
+    font-weight: bold;
+}
+.greentext {
+    color:green; opacity:0.5; font-style:bold; font-size:160px;
+}
+
+
+/* Page 1 */
+#page1 div div div {
+    color: white;
+}
+/* Page 2 */
+#page2 div div div {
+    color: black;
+}
+/* Page 3 */
+#page3 div div div {
+    color: white;
+}
+/* Page 4 */
+#page4 div div div {
+    p {
+    color: red;
+    }
+}
+/* Page 5 */
+#page5 div div div {
+    p {
+        color: white;
+    }
+}
+
+/* Art */
+#overlay {
+    position: relative;
+    width: inherit;
+    height: inherit;
+    background-color: rgba(230, 230, 230, 0.8);
+    z-index: 2;
+    cursor: pointer;
+}
+.artcontainer {
+    position: absolute;
+    top: 200vh;
+    left: 75px;
+    right: 75px;
+}
+
+/*GAL*/
+.gal {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+.gal img{ width: 100%; padding: 7px 0;}
+@media (max-width: 500px) {
+    .gal {
+        -webkit-column-count: 1; /* Chrome, Safari, Opera */
+        -moz-column-count: 1; /* Firefox */
+        column-count: 1;
+    }
+}
