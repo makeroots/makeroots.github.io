@@ -11,7 +11,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
         doc.stag('meta', name="viewport", content="width=device-width, initial-scale=1, shrink-to-fit=no")
         doc.stag('meta', name="description", content="My website!")
         doc.stag('meta', name="author", content="Aidan Low")
-        with tag('title'): text('Aidan Low')
+        with tag('title'): text('MakeRoots')
         with tag('script', src="https://use.fontawesome.com/cc09d94a65.js"): pass # Font-Awesome
         doc.stag('link', href="CSSFiles/bootstrap.min.css", rel="stylesheet") # Bootstrap CSS
         doc.stag('link', href="CSSFiles/custom.css", rel="stylesheet") # Custom CSS
