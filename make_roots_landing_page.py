@@ -67,7 +67,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
 
         def page_2():
             with tag('div', klass='row padder'):
-                with tag('div', klass="col-md-6 mx-auto", style="color:black"):
+                with tag('div', klass="col-md-12 mx-auto", style="color:black"):
                     with tag('h1'):
                         text("What's the problem with philanthropy?")
                     doc.stag('br')
@@ -88,7 +88,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
 
         def page_3():
             with tag('div', klass='row padder'):
-                with tag('div', klass="col-md-12 mx-auto", style="color:white"):
+                with tag('div', klass="col-md-6 mx-auto", style="color:white"):
                     with tag('h1'):
                         text("Let's change that.")
                     doc.stag('br')
