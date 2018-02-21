@@ -21,7 +21,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
     # Body
     with tag('body', id='page-top', data_gr_c_s_loaded="true"):
         # Navigation
-        with tag('div', klass="navbar navbar-inverse navbar-fixed-left"):
+        with tag('div', klass="navbar navbar-fixed-left"):
             with tag('div', klass="main-container"):
                 with tag('div', klass="fixer-container"):
                     with tag('ul', klass='nav navbar-nav'):
@@ -125,7 +125,10 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                 with tag('div', klass='row'):
                     with tag('div', klass='col-md-6 mx-auto'):
                         with tag('p', klass="lead"):
+                            doc.stag('br')
                             text('Lorem ipsum dolor sit amet.')
+                            doc.stag('br')
+                            doc.stag('br')
                         with tag('div', klass="btn btn-lg btn-default", onclick="on()",
                                  style="background-color:#BF94E4; border-color:white; color:white; font-size 20px;"):
                             text('Chat with us!')
