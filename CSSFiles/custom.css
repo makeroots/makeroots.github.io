@@ -63,25 +63,6 @@ h1, h2 {
     color:green; opacity:0.5; font-style:bold; font-size:160px;
 }
 
-
-/* Page 1 */
-#page1 div div div {
-    color: white;
-}
-/* Page 2 */
-#page2 div div div {
-    color: black;
-}
-/* Page 3 */
-#page3 div div div {
-    color: white;
-}
-/* Page 4 */
-#page4 div div div {
-    p {
-    color: red;
-    }
-}
 /* Page 5 */
 #page5 div div div {
     p {
