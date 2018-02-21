@@ -2,13 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/MakeRoots.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CSSFiles/custom.css" afterPath="$PROJECT_DIR$/CSSFiles/custom.css" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/apps/audioPlayer2.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/main_style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/checkbox-v8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/comment-bubble-v8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/default-bg-old.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/default-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/images/radio-v8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/main_style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/files/theme/plugins.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/resume.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/standardResume.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/1026203_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/1468386.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/1468386_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/3342844.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/3342844_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/3913154.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/3913154_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/8558011.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/8558011_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/9034226_orig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/brytonresume.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/page-layouts-1426690123.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/OldLandingSite/uploads/1/2/5/3/12531049/page-layouts-1834881_orig.jpeg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/make_roots_landing_page.py" afterPath="$PROJECT_DIR$/make_roots_landing_page.py" />
     </list>
@@ -24,8 +66,8 @@
       <file leaf-file-name="make_roots_landing_page.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/make_roots_landing_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+            <state relative-caret-position="-1432">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -227,26 +269,26 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#5;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#section#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -269,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/make_roots_landing_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        <state relative-caret-position="-1432">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
