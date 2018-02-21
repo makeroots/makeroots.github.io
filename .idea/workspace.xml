@@ -2,16 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change beforePath="$PROJECT_DIR$/NON-JEKYLL/index.html" afterPath="$PROJECT_DIR$/NON-JEKYLL/index.html" />
-      <change beforePath="$PROJECT_DIR$/NON-JEKYLL/make_roots_landing_page.py" afterPath="$PROJECT_DIR$/NON-JEKYLL/make_roots_landing_page.py" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2018/02/21/welcome-to-jekyll.html" afterPath="$PROJECT_DIR$/_site/jekyll/update/2018/02/21/welcome-to-jekyll.html" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Futura-Bold-Italic.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Futura-Bold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Futura-Medium-Italic.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Futura-Medium.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.extensions.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/dist/jquery.fullpage.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/activeSlide.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/apple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/autoHeight.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/autoplayVideoAndAudio.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/backgroundVideo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/backgrounds.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/backgroundsFixed.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/callbacks.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/callbacks2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/continuousHorizontal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/continuousVertical.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/css3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/demoPage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/dragAndMove.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/easing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/examples.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/examples.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/fadingEffect.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/fixedHeaders.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/gradientBackgrounds.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/bg1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/bg2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/bg3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/bg4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/bg5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/compatible.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/copyright.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/en-language-inactive.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/en-language.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/es-language-inactive.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/es-language.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/example.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/example2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/flowers.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/flowers.webm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/fullPage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/horse.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/horse.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/intro.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone-blue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone-green.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone-red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone-two.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone-yellow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/iphone4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/slider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/tablets.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/imgs/used-by-fullpage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/interlockedSlides.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/lazyLoad.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/looping.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/methods.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/navigationH.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/navigationV.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/noAnchor.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/normalScroll.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/normalScrollElements.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/offsetSections.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/oneSection.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/parallax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/resetSliders.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/responsiveAutoHeight.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/responsiveHeight.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/responsiveSlides.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/responsiveWidth.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/scrollBar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/scrollHorizontally.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/scrollOverflow.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/scrollOverflowReset.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/scrollingSpeed.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/examples/simple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/jquery.fullPage.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/jquery.fullPage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/chinese/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/chinese/how-to-activate-fullpage-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/chinese/parallax-extensionmd.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/korean/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/korean/how-to-activate-fullpage-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/korean/parallax-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/russian/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/russian/how-to-activate-fullpage-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/russian/parallax-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/spanish/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/spanish/how-to-activate-fullpage-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/lang/spanish/parallax-extension.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/npm-debug.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/pure javascript (Alpha)/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/pure javascript (Alpha)/demo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/pure javascript (Alpha)/javascript.fullPage.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/pure javascript (Alpha)/javascript.fullPage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/pure javascript (Alpha)/javascript.fullPage.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/tests/functions.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/tests/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/tests/functions2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/tests/functions2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/vendors/jquery.easings.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/vendors/scrolloverflow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/vendors/scrolloverflow.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fullPage.js-master/vendors/scrolloverflow.min.js.map" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +136,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="make_roots_landing_page.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NON-JEKYLL/make_roots_landing_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -100,17 +202,6 @@
             <path>
               <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
               <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
-              <item name="NON-JEKYLL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
-              <item name="NON-JEKYLL" type="462c0819:PsiDirectoryNode" />
-              <item name="JSFiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +294,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="961" height="1053" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24713244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -212,7 +302,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1670168" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1670168" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1670168" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -238,7 +328,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -262,7 +354,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2085">
           <caret line="140" column="54" lean-forward="false" selection-start-line="140" selection-start-column="54" selection-end-line="140" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -286,7 +380,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2100">
           <caret line="140" column="54" lean-forward="false" selection-start-line="140" selection-start-column="54" selection-end-line="140" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -316,7 +412,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -353,7 +451,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -369,7 +469,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1935">
           <caret line="130" column="42" lean-forward="false" selection-start-line="130" selection-start-column="42" selection-end-line="130" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -434,7 +536,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -458,9 +562,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
