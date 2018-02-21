@@ -51,10 +51,10 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                         PAGE_FUNCTION()
 
         def page_1():
-            with tag('div', klass='row padder'):
-                with tag('div', klass="col-md-6 mx-auto", style="color:white"):
-                    with tag('h1', klass='greentext'):
-                        text('MakeRoots')
+            with tag('h1', klass='greentext'):
+                text('MakeRoots')
+            with tag('div', klass='row'):
+                with tag('div', klass="col-md-8 mx-auto", style="color:white"):
                     with tag('h1'):
                         text('Grow something good.')
                     doc.stag('br')
@@ -69,7 +69,9 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
             with tag('div', klass='row padder'):
                 with tag('div', klass="col-md-12 mx-auto", style="color:black"):
                     with tag('h1'):
-                        text("What's the problem with philanthropy?")
+                        text("What's the problem")
+                        doc.stag('br')
+                        text("with philanthropy?")
                     doc.stag('br')
             def make_page_2_list_item(NUMBER, TITLE, CONTENT):
                 with tag('div', klass='row'):
@@ -89,7 +91,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
         def page_3():
             with tag('div', klass='row padder'):
                 with tag('div', klass="col-md-6 mx-auto", style="color:white"):
-                    with tag('h1'):
+                    with tag('h1', style="margin-bottom:50px;"):
                         text("Let's change that.")
                     doc.stag('br')
                     with tag('p', klass="lead"):
@@ -115,9 +117,9 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                     make_page_3_list_item('Passion.')
                     make_page_3_list_item('Love.')
                     make_page_3_list_item('Anything.')
-                with tag('div', klass="col-md-offset-2 col-md-5 mx-auto bottom-column"):
+                with tag('div', klass="col-md-offset-4 col-md-3 mx-auto"):
                     with tag('h4', style="text-align:right; color:black;"):
-                        text('Lorem ipsum dolor sit amet')
+                        text("We're bringing philanthropy to the people. You don't have to be a billionaire to make an impact for the causes you care about.")
 
         def page_5():
             with tag('div', klass='row padder'):
@@ -128,7 +130,8 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                 with tag('div', klass='col-md-6 mx-auto', style="color:white"):
                     with tag('p', klass="lead"):
                         doc.stag('br')
-                        text('If you\'re a nonprofit or passionate person, tell us what you think. How do you engage with the causes you care about? How can we design MakeRoots for you?')
+                        with tag('b'):
+                            text('If you\'re a nonprofit or passionate person, tell us what you think. How do you engage with the causes you care about? How can we design MakeRoots for you?')
                         doc.stag('br')
                         doc.stag('br')
                     with tag('div', klass="btn btn-lg btn-default", onclick="on()",
@@ -171,6 +174,14 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                                     text('*')
                                 text(' These fields are required.')
 
+        def copyright(): # Not used, since it makes the page look worse.
+            global doc, tag, text
+            with tag('div', klass="copyright"):
+                with tag('div', klass="container"):
+                    with tag('div', klass="col-md-12 col-sm-12"):
+                        with tag('p'):
+                            text('© 2017 - All Rights with Madgeek Pvt. Ltd. | CIN : U74999KA2017PTC103746')
+
         with tag('div', id="fullpage"):
             make_page(page_1, 1)
             make_page(page_2, 2)
@@ -179,7 +190,6 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
             make_page(page_5, 5)
         with tag('script', src="JSFiles/fullPageInit.js"): pass
         with tag('script', src="ContactFormFiles/contact.js"): pass
-
 
 
 
