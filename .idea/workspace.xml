@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CSSFiles/custom.css" afterPath="$PROJECT_DIR$/CSSFiles/custom.css" />
-      <change beforePath="$PROJECT_DIR$/fullPage.js-master.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fullPage.js-master/fullPageInit.js" afterPath="$PROJECT_DIR$/JSFiles/fullPageInit.js" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/make_roots_landing_page.py" afterPath="$PROJECT_DIR$/make_roots_landing_page.py" />
     </list>
@@ -18,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="make_roots_landing_page.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="make_roots_landing_page.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/make_roots_landing_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2850">
-              <caret line="190" column="20" lean-forward="true" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
+            <state relative-caret-position="956">
+              <caret line="194" column="20" lean-forward="false" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -60,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSSFiles/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="630">
+              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -327,21 +324,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/make_roots_landing_page.py">
+    <entry file="file://$PROJECT_DIR$/CSSFiles/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="190" column="20" lean-forward="true" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="630">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSSFiles/custom.css">
+    <entry file="file://$PROJECT_DIR$/make_roots_landing_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="956">
+          <caret line="194" column="20" lean-forward="false" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
