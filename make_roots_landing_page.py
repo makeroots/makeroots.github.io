@@ -154,17 +154,16 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                                 doc.stag('input', id="form_name", type="text", name=PARAM, klass="form-control", placeholder=PLACEHOLDER, required="required", data_error=ERROR)
                                 with tag('div', klass="help-block with-errors"): pass
                     with tag('div', klass="row"):
-                        make_form_input("form_name", 'Firstname *', "name", "Please enter your firstname *", "Firstname is required.")
-                        make_form_input("form_lastname", 'Lastname *', "surname", "Please enter your lastname *", "Lastname is required.")
+                        make_form_input("form_name", 'First Name *', "name", "Please enter your first name *", "First name is required.")
+                        make_form_input("form_lastname", 'Last Name *', "surname", "Please enter your last name *", "Last name is required.")
                     with tag('div', klass="row"):
                         make_form_input("form_email", "Email *", "email", "Please enter your email *", "Valid email is required.")
-                        make_form_input("form_phone", "Phone *", "phone", "Please enter your phone *", "Valid phone is required.")
                     with tag('div', klass="row"):
                         with tag('div', klass="col-md-12"):
                             with tag('div', klass="form-group"):
                                 with tag('label', for_w="form_message"):
                                     text('Message *')
-                                with tag('textarea', id="form_message", name="message", klass="form-control", placeholder="Message for me *", rows="4", required="required", data_error="Please,leave us a message."): pass
+                                with tag('textarea', id="form_message", name="message", klass="form-control", placeholder="Message to MakeRoots *", rows="4", required="required", data_error="Please,leave us a message."): pass
                                 with tag('div', klass="help-block with-errors"): pass
                         with tag('div', klass="col-md-12"):
                             doc.stag('input', type="submit", klass="btn btn-success btn-send", value="Send message")
@@ -181,7 +180,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                 with tag('div', klass="container"):
                     with tag('div', klass="col-md-12 col-sm-12"):
                         with tag('p'):
-                            text('© 2017 - All Rights with Madgeek Pvt. Ltd. | CIN : U74999KA2017PTC103746')
+                            text('2017 - All Rights with Madgeek Pvt. Ltd. | CIN : U74999KA2017PTC103746')
 
         with tag('div', id="fullpage"):
             make_page(page_1, 1)
