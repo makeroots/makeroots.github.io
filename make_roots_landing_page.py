@@ -22,6 +22,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
         with tag('script', src="JSFiles/divheights.js"): pass # Custom JS
         # Pagination JS
         with tag('script', src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"): pass # Base JQuery
+        #with tag('script', type="text/javascript", src="https://cdnjs.com/libraries/fullPage.js"): pass # Pagination JS ONLINE
         with tag('script', type="text/javascript", src="fullPage.js-master/jquery.fullPage.js"): pass # Pagination JS
 
     # Body
