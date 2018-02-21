@@ -40,7 +40,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
             with tag('div', klass='bg bg1'): pass
             with tag('div', klass='container section-content'):
                 with tag('div', klass='row padder'):
-                    with tag('div', klass="col-md-12 mx-auto"):
+                    with tag('div', klass="col-md-6 mx-auto"):
                         with tag('h1', klass='greentext'):
                             text('MakeRoots')
                         with tag('h1'):
@@ -48,7 +48,7 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                         doc.stag('br')
                         doc.stag('br')
                         with tag('p', klass="lead"):
-                            text('We are building a space to connect passionate people and nonprofits that are tackling our world\'s biggest challenges.')
+                            text('We are building a space to connect passionate people and nonprofits that are tackling our world\'s biggest challenges. A new means of communication, social media, defines our times - Let\'s make a social media platform for philanthropy. \n\nIt\'s time we bring philanthropy to the people.')
 
         # Page 2
         with tag('section', id="page2", klass="screener"):
@@ -70,9 +70,9 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                                 text(TITLE)
                             with tag('p', klass="lead"):
                                 text(CONTENT)
-                make_page_2_list_item("1.", "Lorem ipsum dolor sit amet.", "Lorem ipsum dolor sit amet.")
-                make_page_2_list_item("2.", "Lorem ipsum dolor sit amet.", "Lorem ipsum dolor sit amet.")
-                make_page_2_list_item("3.", "Lorem ipsum dolor sit amet.", "Lorem ipsum dolor sit amet.")
+                make_page_2_list_item("1.", "It's not engaging.", "Following nonprofits is neither social nor fun.")
+                make_page_2_list_item("2.", "It's not trustworthy.", "It\'s hard to know when a nonprofit\'s site is safe. It\'s your money and time and you want it to be well spent.")
+                make_page_2_list_item("3.", "It\'s not visible.", "Nonprofits get lost in the mess of social media news feeds, they don\'t have a specialized space designed to communicate their impact and need.")
 
 
         # Page 3
@@ -85,10 +85,10 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                             text("Let's change that.")
                         doc.stag('br')
                         with tag('p', klass="lead"):
-                            text('Lorem ipsum dolor sit amet.')
+                            text('The world has moved in a direction that puts social impact at the forefront, and social media has been a major platform for it.')
                         doc.stag('br')
                         with tag('p', klass="lead"):
-                            text('Lorem ipsum dolor sit amet.')
+                            text(' What if there was a place where people and nonprofits could engage with one another, learn, and be charitable...')
 
         # Page 4
         with tag('section', id="page4", klass="screener"):
@@ -121,17 +121,17 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                 with tag('div', klass='row padder'):
                     with tag('div', klass="col-md-12 mx-auto"):
                         with tag('h1', klass="greentext"):
-                            text('Tell us what you think.')
+                            text('Talk with us!')
                 with tag('div', klass='row'):
                     with tag('div', klass='col-md-6 mx-auto'):
                         with tag('p', klass="lead"):
                             doc.stag('br')
-                            text('Lorem ipsum dolor sit amet.')
+                            text('If you\'re a nonprofit or passionate person, tell us what you think. How do you engage with the causes you care about? How can we design MakeRoots for you?')
                             doc.stag('br')
                             doc.stag('br')
                         with tag('div', klass="btn btn-lg btn-default", onclick="on()",
                                  style="background-color:#BF94E4; border-color:white; color:white; font-size 20px;"):
-                            text('Chat with us!')
+                            text('I wanna talk!')
                     with tag('div', klass='col-md-6 mx-auto', id='overlay', style="display:none;"):
                         text("I am an email form!")
 
