@@ -135,9 +135,10 @@ with tag('html', lang="en", klass="gr__blackrockdigital_github_io"):
                         doc.stag('br')
                         doc.stag('br')
                     with tag('div', klass="btn btn-lg btn-default", onclick="on()",
-                             style="background-color:#BF94E4; border-color:white; color:white; font-size 20px;"):
+                             style="background-color:#BF94E4; border-color:white; "
+                                   "color:white; font-size 20px; display:block"):
                         text('I wanna chat!')
-                with tag('div', klass='col-md-6 mx-auto', id='overlay', style="display:none;"):
+                with tag('div', klass='col-md-offset-1 col-md-5 mx-auto', id='overlay', style="display:none;"):
                     email_form()
 
         def email_form():

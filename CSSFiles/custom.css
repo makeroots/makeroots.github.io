@@ -86,7 +86,7 @@ h4 {
 .fa {
     color: #BF94E4;
 }
-.container .row {
+.section-content .row {
     margin-left: 5%;
     width: 90%;
 }
@@ -104,11 +104,10 @@ h1, h2 {
 /* Art */
 #overlay {
     position: relative;
-    width: inherit;
-    height: inherit;
     background-color: rgba(230, 230, 230, 0.8);
     z-index: 2;
     cursor: pointer;
+    padding-top: 10px;
 }
 .artcontainer {
     position: absolute;
