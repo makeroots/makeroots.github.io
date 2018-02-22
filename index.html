@@ -6,6 +6,7 @@
 <body>
 {% include header.html %}
 
+<div id="cover"></div>
 <div id="fullpage">
   {% for tab in site.tabs %}
     {% capture id %}{{ tab.id | remove:'/' | remove:'tabs' | downcase }}{% endcapture %}
