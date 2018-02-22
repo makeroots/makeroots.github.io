@@ -1,0 +1,112 @@
+@font-face {
+  font-family: Futura;
+  src: url('./Futura-Medium.woff') format("WOFF");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Futura;
+  src: url('./Futura-Medium-Italic.woff') format("WOFF");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: Futura;
+  src: url('./Futura-Bold.woff') format("WOFF");
+  font-weight: 700;
+  font-style: bold;
+}
+/* General */
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial;
+}
+h1, h3 {
+    font-size: 64px;
+}
+h2 {
+    color: green;
+    font-size: 36px;
+}
+h3 {
+    margin-top:0px;
+}
+h4 {
+    font-size:30px;
+}
+
+/* Section maintenance */
+.padder {
+    padding-top: 15vh;
+}
+
+.screener {
+    height: 100vh;
+    position: relative;
+}
+.bg {
+/* Full height */
+    height: 100%;
+/* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1 {background-image: url("../img/bg_1.jpg");}
+.bg2 {background-image: url("../img/bg_2.jpg");}
+.bg3 {background-image: url("../img/bg_3.jpg");}
+.bg4 {background-image: url("../img/bg_4.jpg");}
+.bg5 {background-image: url("../img/bg_5.jpg");}
+
+.section-content {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    max-width: none;
+}
+
+/* Navbar */
+.tab-base {
+    padding-top:0px;
+}
+.section-content .row {
+    width: 100%;
+}
+h1, h2 {
+    font-style: italic;
+    font-weight: bold;
+}
+.greentext {
+    color:green;
+    opacity:0.7;
+    font-style:bold;
+    font-size:160px;
+}
+
+/* Art */
+#overlay {
+    position: relative;
+    background-color: rgba(230, 230, 230, 0.8);
+    z-index: 2;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.artcontainer {
+    position: absolute;
+    top: 200vh;
+    left: 75px;
+    right: 75px;
+}
+
+/*GAL*/
+.gal {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+.gal img{ width: 100%; padding: 7px 0;}
+@media (max-width: 500px) {
+    .gal {
+        -webkit-column-count: 1; /* Chrome, Safari, Opera */
+        -moz-column-count: 1; /* Firefox */
+        column-count: 1;
+    }
+}
