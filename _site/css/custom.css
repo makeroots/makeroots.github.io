@@ -76,7 +76,12 @@ h4 {
     background: #BF94E4;
 }
 .btn-form{
-    background-color:#BF94E4; border-color:white; color:white; font-size 20px; display:block
+    background-color:#BF94E4;
+    border-color:white;
+    color:white;
+    font-size 20px;
+    display:block
+    border-radius:0;
 }
 
 /* Navbar */
