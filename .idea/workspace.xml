@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/js_files.html" afterPath="$PROJECT_DIR$/_includes/js_files.html" />
-      <change beforePath="$PROJECT_DIR$/_site/BASIC.tar.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/custom.css" afterPath="$PROJECT_DIR$/_site/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="$PROJECT_DIR$/_tabs/01-intro.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_tabs/02-first-content.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_tabs/03-second-content.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_tabs/04-third-content.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_tabs/05-fourth-content.html" afterPath="" />
-    </list>
+    <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
