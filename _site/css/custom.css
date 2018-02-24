@@ -1,29 +1,15 @@
 @font-face {
-  font-family: Futura;
-  src: url('./Futura-Medium.woff') format("WOFF");
-  font-weight: normal;
-}
-@font-face {
-  font-family: Futura;
-  src: url('./Futura-Medium-Italic.woff') format("WOFF");
-  font-weight: 500;
-  font-style: italic;
-}
-@font-face {
-  font-family: Futura;
-  src: url('./Futura-Bold.woff') format("WOFF");
-  font-weight: 700;
-  font-style: bold;
+  font-family: "Futura";
+  src: url("../fonts/futura/FuturaMedium.tff");
 }
 /* General */
 p, h1, h2, h3, h4, h5, h6 {
-    font-family: Arial;
+    font-family: Futura;
 }
 h1, h3 {
     font-size: 64px;
 }
 h2 {
-    color: green;
     font-size: 36px;
 }
 h3 {
@@ -47,10 +33,6 @@ h4 {
 .padder {
     padding-top: 15vh;
 }
-.screener {
-    height: 100vh;
-    position: relative;
-}
 .bg {
 /* Full height */
     height: 100%;
@@ -59,24 +41,47 @@ h4 {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.bg1 {background-image: url("../img/bg_1.jpg");}
+.bg_box {
+    background: #FFFFFF;
+    border: 15px solid #B5A2FF;
+}
+.bg1, .bg3 {background-image: url("../img/bg_leaves.jpg");}
+.bg2 {background-color:white;}
+/*.bg1 {background-image: url("../img/bg_1.jpg");}
 .bg2 {background-image: url("../img/bg_2.jpg");}
 .bg3 {background-image: url("../img/bg_3.jpg");}
 .bg4 {background-image: url("../img/bg_4.jpg");}
-.bg5 {background-image: url("../img/bg_5.jpg");}
+.bg5 {background-image: url("../img/bg_5.jpg");}*/
 
 .section-content {
     position: absolute;
     width: 100%;
+    height: 100%;
     top: 0;
     max-width: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#grow_good {
+    box-sizing: content-box;
+    margin: 0px;
+    width: 100vw;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
 }
 #fp-nav ul li a span {
     color: #BF94E4;
     background: #BF94E4;
 }
 .btn-form{
-    background-color:#BF94E4; border-color:white; color:white; font-size 20px; display:block
+    background-color:#BF94E4;
+    border-color:white;
+    color:white;
+    font-size 20px;
+    display:block
+    border-radius:0px;
+
 }
 
 /* Navbar */
@@ -92,8 +97,7 @@ h1, h2 {
     font-weight: bold;
 }
 .greentext {
-    color:green;
-    opacity:0.7;
+    color:white;
     font-style:bold;
     font-size:160px;
 }
