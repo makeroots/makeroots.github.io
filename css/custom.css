@@ -8,13 +8,13 @@ body {
 }
 h1 {
     font-size: 64px;
-    @media only screen and (min-width: 800px) {
+    @media only screen and (min-width: 1280px) {
         font-size: 6vw;
     }
 }
 h2 {
     font-size: 48px;
-    @media only screen and (min-width: 800px) {
+    @media only screen and (min-width: 1280px) {
         font-size: 3vw;
     }
 }
@@ -30,7 +30,7 @@ h1, h2 {
     color:white;
     font-style:bold;
     font-size:160px;
-    @media only screen and (min-width: 800px) {
+    @media only screen and (min-width: 1280px) {
         font-size: 8vw;
     }
 }
@@ -48,7 +48,7 @@ h1, h2 {
     font-size: 80px;
     font-style: italic;
     font-weight: bold;
-    @media only screen and (min-width: 800px) {
+    @media only screen and (min-width: 1280px) {
         font-size: 4vw;
     }
 }
