@@ -3,25 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="$PROJECT_DIR$/_site/LICENSE" />
       <change beforePath="$PROJECT_DIR$/_site/css/custom.css" afterPath="$PROJECT_DIR$/_site/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/_site/img/MR landing page 2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/bg_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/bg_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/bg_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/bg_5.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change beforePath="$PROJECT_DIR$/_tabs/01-title.html" afterPath="$PROJECT_DIR$/_tabs/01-title.html" />
-      <change beforePath="$PROJECT_DIR$/_tabs/02-problems.html" afterPath="$PROJECT_DIR$/_tabs/02-problems.html" />
-      <change beforePath="$PROJECT_DIR$/_tabs/03-change-that.html" afterPath="$PROJECT_DIR$/_tabs/03-change-that.html" />
-      <change beforePath="$PROJECT_DIR$/_tabs/04-donate.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_tabs/05-talk-with-us.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/img/MR landing page 2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bg_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bg_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bg_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/bg_5.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,23 +17,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="01-title.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_tabs/01-title.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="465">
+              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#1;n#div#2;n#div#1;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,14 +41,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-change-that.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-change-that.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_tabs/03-change-that.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,6 +100,7 @@
       <find>offset</find>
       <find>gree</find>
       <find>btn</find>
+      <find>bf94e4</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,10 +139,10 @@
         <option value="$PROJECT_DIR$/_includes/js_files.html" />
         <option value="$PROJECT_DIR$/_site/css/custom.css" />
         <option value="$PROJECT_DIR$/_tabs/05-talk-with-us.html" />
-        <option value="$PROJECT_DIR$/_tabs/01-title.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/_tabs/02-problems.html" />
         <option value="$PROJECT_DIR$/_tabs/03-change-that.html" />
+        <option value="$PROJECT_DIR$/_tabs/01-title.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -570,24 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_tabs/01-title.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_tabs/02-problems.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -600,11 +568,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_tabs/03-change-that.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_tabs/01-title.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#2;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
