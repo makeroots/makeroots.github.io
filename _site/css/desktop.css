@@ -1,0 +1,690 @@
+
+
+.desktop {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 3077px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktop .rectangle2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2251px;
+  height              : 834px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop .rectangle4 {
+  background          : rgba(215, 215, 215, 0.0);
+  top                 : 2759px;
+  height              : 73px;
+  width               : 466px;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.desktop .name {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2681px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.desktop .email {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2680px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 500px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.desktop .message {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2762px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.desktop .photo146764003508278bd2c7a7155 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1126px;
+  height              : 563px;
+  width               : 1026px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.desktop .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1688px;
+  height              : 563px;
+  width               : 1026px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.desktop .time {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2082px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .creativity {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2081px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 569px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .anything {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2081px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 794px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .rectangle {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1171px;
+  height              : 439px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+}
+.desktop .were-bringing-phila {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1199px;
+  height              : auto;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.desktop .if-youre-a-nonprofi {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2456px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.desktop .the-world-has-moved {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1412px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 379px;
+  width               : 1027px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+}
+.desktop .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 599px;
+  height              : 305px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+}
+.desktop .share-your-visions-a {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1715px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 47.0px;
+}
+.desktop .m-akeroots {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 72.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 96.0px;
+}
+.desktop .grow-something-good {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 429px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 218px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 56.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 75.0px;
+}
+.desktop .get-in-touch {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -186px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2076px;
+}
+.desktop .get-in-touch .button-background {
+  background          : rgba(255, 254, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 145px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(215, 215, 215, 1.0);
+}
+.desktop .we-are-creating-a-sp {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : auto;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop .following-nonprofits {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 683px;
+  height              : auto;
+  width               : 458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 464px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop .its-hard-to-know-wh {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 822px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop .current-social-media {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 980px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 464px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop .whats-the-problem-w {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 630px;
+  height              : auto;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.desktop .lets-change-that {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1199px;
+  height              : auto;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  line-height         : 37.0px;
+}
+.desktop .jill-heyer247995-unsplash1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -910px;
+  height              : 683px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2013px;
+}
+.desktop .its-not-engaging {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.desktop .its-not-trustworthy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 752px;
+  height              : auto;
+  width               : 450px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.desktop .its-not-visible {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 911px;
+  height              : auto;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.desktop .talk-with-us {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2296px;
+  height              : auto;
+  width               : 833px;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 100.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 133.0px;
+}
+.desktop .oval {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1959px;
+  height              : 122px;
+  width               : 122px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+}
+.desktop .image4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1959px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+}
+.desktop .image5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1959px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+}
+.desktop .image6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1959px;
+  height              : 123px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 786px;
+}
+.desktop .money {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2082px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .group4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2587px;
+  height              : 27px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 402px;
+}
+.desktop .group4 .write-us-a-message {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(254, 255, 254, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.desktop .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2864px;
+  height              : 46px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 438px;
+}
+.desktop .view1 .rectangle3 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop .view1 .submit {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(181, 162, 255, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.desktop .give-what-you-have {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1899px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 390px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .change-makers-should {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2144px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 246px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.desktop .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3044px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  font-family         : "Futura-MediumItalic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktop .line {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3046px;
+  height              : 25px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+}
+.desktop .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3048px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 122px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
+}
+.desktop .line3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2701px;
+  height              : 3px;
+  width               : 191px;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+}
+.desktop .line4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2700px;
+  height              : 3px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 499px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
