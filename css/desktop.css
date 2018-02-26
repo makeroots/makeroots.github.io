@@ -37,47 +37,59 @@ div {
   border-width        : 2px;
   border-color        : rgba(255, 255, 255, 1.0);
 }
-.desktop .name {
+.desktop .text-name {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 2681px;
-  height              : auto;
-  width               : auto;
+  top                 : 2677px;
+  height              : 30px;
+  width               : 189px;
   position            : absolute;
   margin              : 0;
   left                : 279px;
   font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 14.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : justify;
   line-height         : 19.0px;
+  border              : 0;
 }
-.desktop .email {
+.desktop .text-name::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.desktop .text-email {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 2680px;
-  height              : auto;
-  width               : auto;
+  top                 : 2676px;
+  height              : 30px;
+  width               : 246px;
   position            : absolute;
   margin              : 0;
   left                : 500px;
   font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 14.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : justify;
   line-height         : 19.0px;
+  border              : 0;
 }
-.desktop .message {
+.desktop .text-email::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.desktop .text-message {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 2762px;
-  height              : auto;
-  width               : auto;
+  top                 : 2761px;
+  height              : 68px;
+  width               : 458px;
   position            : absolute;
   margin              : 0;
-  left                : 285px;
+  left                : 282px;
   font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 14.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : justify;
   line-height         : 19.0px;
+  border              : 0;
+}
+.desktop .text-message::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
 }
 .desktop .photo146764003508278bd2c7a7155 {
   background          : rgba(255, 255, 255, 0.0);
@@ -490,39 +502,7 @@ div {
   left                : 0px;
   font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 20.0px;
-  color               : rgba(254, 255, 254, 1.0);
-  text-align          : center;
-  line-height         : 27.0px;
-}
-.desktop .view1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 2864px;
-  height              : 46px;
-  width               : 145px;
-  position            : absolute;
-  margin              : 0;
-  left                : 438px;
-}
-.desktop .view1 .rectangle3 {
-  background          : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 46px;
-  width               : 145px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.desktop .view1 .submit {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 7px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 40px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(181, 162, 255, 1.0);
+  color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
   line-height         : 27.0px;
 }
@@ -608,6 +588,20 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 499px;
+}
+.desktop .submit {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2882px;
+  height              : auto;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 460px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
