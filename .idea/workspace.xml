@@ -2,159 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226e509d-259f-4e2f-8acf-5eebefb8d685" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_site.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_breadcrumb.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_button-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_card.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_carousel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_close.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_code.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_custom-forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_dropdown.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_functions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_images.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_input-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_jumbotron.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_media.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_modal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_nav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_navbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_popover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_print.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_progress.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_tables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_tooltip.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_transitions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_type.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/bootstrap-grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/bootstrap-reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_background-variant.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_border-radius.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_box-shadow.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_breakpoints.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_gradients.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_grid-framework.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_hover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_image.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_lists.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_nav-divider.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_navbar-align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_reset-text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_resize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_size.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_table-row.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_text-emphasis.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_text-hide.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_text-truncate.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_transition.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/mixins/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_background.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_borders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_display.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_embed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_flex.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_position.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_screenreaders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_sizing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_spacing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/bootstrap/utilities/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/css/jquery.fullpage.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/img/bg_leaves.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_tabs/01-title.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_tabs/02-problems.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_tabs/03-change-that.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/jquery.fullpage.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/.gitkeep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg_leaves.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/43d25b91b0af4c38bb03b95e2b4ab8ad5c1387db/_custom.scssc" afterPath="$PROJECT_DIR$/.sass-cache/43d25b91b0af4c38bb03b95e2b4ab8ad5c1387db/_custom.scssc" />
-      <change beforePath="$PROJECT_DIR$/AnimaPackage-Web-YgbnT.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change beforePath="$PROJECT_DIR$/_sass/_custom.scss" afterPath="$PROJECT_DIR$/_sass/_custom.scss" />
-      <change beforePath="$PROJECT_DIR$/_site/AnimaPackage-Web-YgbnT.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/custom.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/desktopHd.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/mobilePortrait.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/tabletPortrait.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/desktophd.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/Futura.ttc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktop hdinstructions  you can remove this.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktop hdphoto146764003508278bd2c7a7155.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopjillheyer247995unsplash 1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopline.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopoval  1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopoval  2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopoval  3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopoval.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopphoto146764003508278bd2c7a7155  1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopphoto146764003508278bd2c7a7155  2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopphoto146764003508278bd2c7a7155  3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktopphoto146764003508278bd2c7a7155.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktoprectangle 2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/desktoprectangle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/img/favicon.png" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/mobileportrait.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/tabletportrait.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/desktopHd.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/mobilePortrait.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/tabletPortrait.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/desktophd.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/Futura.ttc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktop hdinstructions  you can remove this.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktop hdphoto146764003508278bd2c7a7155.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopjillheyer247995unsplash 1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopline.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopoval  1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopoval  2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopoval  3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopoval.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopphoto146764003508278bd2c7a7155  1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopphoto146764003508278bd2c7a7155  2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopphoto146764003508278bd2c7a7155  3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktopphoto146764003508278bd2c7a7155.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktoprectangle 2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/desktoprectangle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="$PROJECT_DIR$/_site/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/mobileportrait.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tabletportrait.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_tabs/01-title.html" afterPath="$PROJECT_DIR$/_tabs/01-title.html" />
+      <change beforePath="$PROJECT_DIR$/_tabs/02-problems.html" afterPath="$PROJECT_DIR$/_tabs/02-problems.html" />
+      <change beforePath="$PROJECT_DIR$/_tabs/03-change-that.html" afterPath="$PROJECT_DIR$/_tabs/03-change-that.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -165,21 +20,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <file leaf-file-name="_custom.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_sass/_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js_files.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/js_files.html">
+      <file leaf-file-name="03-change-that.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_tabs/03-change-that.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-title.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_tabs/01-title.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-share-spread-solve.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_tabs/04-share-spread-solve.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-problems.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_tabs/02-problems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-talk-with-us.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_tabs/05-talk-with-us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -196,7 +91,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&gt;</find>
       <find>for_</find>
       <find>data-error</find>
       <find>contact</find>
@@ -226,6 +120,7 @@
       <find>min-width</find>
       <find>scss</find>
       <find>20px</find>
+      <find>bg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -262,18 +157,19 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/js_files.html" />
         <option value="$PROJECT_DIR$/_site/css/custom.css" />
-        <option value="$PROJECT_DIR$/_tabs/05-talk-with-us.html" />
-        <option value="$PROJECT_DIR$/_tabs/03-change-that.html" />
-        <option value="$PROJECT_DIR$/_tabs/02-problems.html" />
-        <option value="$PROJECT_DIR$/_tabs/01-title.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_tabs/05-talk-with-us.html" />
+        <option value="$PROJECT_DIR$/_tabs/02-problems.html" />
+        <option value="$PROJECT_DIR$/_tabs/01-title.html" />
+        <option value="$PROJECT_DIR$/_tabs/03-change-that.html" />
+        <option value="$PROJECT_DIR$/_tabs/04-share-spread-solve.html" />
         <option value="$PROJECT_DIR$/_sass/_custom.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="-1" />
     <option name="width" value="961" />
     <option name="height" value="1053" />
@@ -296,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,14 +208,28 @@
             <path>
               <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
               <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
+              <item name="_tabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MakeRoots" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MakeRoots" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,13 +338,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <frame x="-1" y="0" width="961" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24713244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1670168" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1670168" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1670168" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
@@ -442,24 +354,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915967" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1670168" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1670168" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915967" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -470,7 +370,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSSFiles/custom.css" />
     <entry file="file://$PROJECT_DIR$/ContactFormFiles/contact.php" />
     <entry file="file://$PROJECT_DIR$/ContactFormFiles/contact.js" />
     <entry file="file://$PROJECT_DIR$/NON-JEKYLL/JSFiles/fullPageInit.js" />
@@ -513,10 +412,36 @@
     <entry file="file://$PROJECT_DIR$/_tabs/02-first-content.html" />
     <entry file="file://$PROJECT_DIR$/_tabs/03-second-content.html" />
     <entry file="file://$PROJECT_DIR$/_tabs/04-third-content.html" />
-    <entry file="file://$PROJECT_DIR$/js/jquery.fullpage.min.js">
+    <entry file="file://$PROJECT_DIR$/_tabs/05-fourth-content.html" />
+    <entry file="file://$PROJECT_DIR$/_site/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/_site/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/img/bg_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/_tabs/04-donate.html" />
+    <entry file="file://$PROJECT_DIR$/js/overlay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="7" column="25060" lean-forward="true" selection-start-line="7" selection-start-column="25060" selection-end-line="7" selection-end-column="25060" />
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_bootstrap.scss" />
+    <entry file="file://$PROJECT_DIR$/css/jquery.fullpage.min.css" />
+    <entry file="file://$PROJECT_DIR$/_sass/custom.css" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/css/desktopHd.css" />
+    <entry file="file://$PROJECT_DIR$/_site/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -524,15 +449,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tabs/05-fourth-content.html" />
-    <entry file="file://$PROJECT_DIR$/_site/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.fullpage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="7" column="25060" lean-forward="true" selection-start-line="7" selection-start-column="25060" selection-end-line="7" selection-end-column="25060" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,38 +485,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/css/custom.css" />
-    <entry file="file://$PROJECT_DIR$/img/bg_1.jpg" />
-    <entry file="file://$PROJECT_DIR$/_tabs/04-donate.html" />
-    <entry file="file://$PROJECT_DIR$/_tabs/05-talk-with-us.html" />
-    <entry file="file://$PROJECT_DIR$/js/overlay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_tabs/02-problems.html" />
-    <entry file="file://$PROJECT_DIR$/_tabs/01-title.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_bootstrap.scss" />
-    <entry file="file://$PROJECT_DIR$/css/jquery.fullpage.min.css" />
-    <entry file="file://$PROJECT_DIR$/_sass/custom.css" />
-    <entry file="file://$PROJECT_DIR$/css/main.scss" />
-    <entry file="file://$PROJECT_DIR$/_tabs/03-change-that.html" />
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -584,10 +501,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css" />
-    <entry file="file://$PROJECT_DIR$/css/desktopHd.css" />
-    <entry file="file://$PROJECT_DIR$/_sass/_custom.scss" />
-    <entry file="file://$PROJECT_DIR$/_site/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/_sass/_site.scss" />
+    <entry file="file://$PROJECT_DIR$/_tabs/05-talk-with-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_tabs/02-problems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_tabs/01-title.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_tabs/03-change-that.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_tabs/04-share-spread-solve.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

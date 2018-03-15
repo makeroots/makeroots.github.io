@@ -6074,21 +6074,30 @@ h1, h2 {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.bg_gradient {
+  background: linear-gradient(to bottom, white, #B5A2FF); }
+
 .bg_box {
   background: #FFFFFF;
-  border: 15px solid #B5A2FF; }
+  margin: 15px;
+  margin-left: 15px;
+  margin-right: 15px; }
 
-.bg1, .bg3 {
+.bgL {
   background-image: url("../img/bg_leaves.jpg"); }
 
 .bg2 {
   background-color: white; }
 
-/*.bg1 {background-image: url("../img/bg_1.jpg");}
-.bg2 {background-image: url("../img/bg_2.jpg");}
-.bg3 {background-image: url("../img/bg_3.jpg");}
-.bg4 {background-image: url("../img/bg_4.jpg");}
-.bg5 {background-image: url("../img/bg_5.jpg");}*/
+.bg4 {
+  background: linear-gradient(to bottom, transparent, #B5A2FF); }
+
+.bg5 {
+  background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
+
+.white {
+  color: white; }
+
 .section-content {
   position: absolute;
   width: 100%;
