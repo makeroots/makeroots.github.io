@@ -6075,13 +6075,14 @@ h1, h2 {
   background-size: cover; }
 
 .bg_gradient {
-  background: linear-gradient(to bottom, white, #B5A2FF); }
+  background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
 
 .bg_box {
   background: #FFFFFF;
-  margin: 15px;
-  margin-left: 15px;
-  margin-right: 15px; }
+  padding: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 92%; }
 
 .bgL {
   background-image: url("../img/bg_leaves.jpg"); }
@@ -6111,6 +6112,7 @@ h1, h2 {
   box-sizing: content-box;
   margin-right: 0px;
   margin-left: 0px;
+  margin-bottom: 0px;
   width: 100vw;
   position: absolute;
   bottom: 0; }
@@ -6143,6 +6145,9 @@ h1, h2 {
 .section-content .row {
   width: 90%;
   margin-left: 5%; }
+
+.row {
+  margin-bottom: 30px; }
 
 /* Art */
 #overlay {
