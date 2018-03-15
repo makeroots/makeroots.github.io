@@ -3,64 +3,29 @@
   src: url("../fonts/futura/FuturaMedium.tff");
 }
 /* General */
-body {
+p, h1, h2, h3, h4, h5, h6 {
     font-family: Futura;
 }
-h1 {
+h1, h3 {
     font-size: 64px;
-    @media only screen and (min-width: 1280px) {
-        font-size: 6vw;
-    }
 }
 h2 {
-    font-size: 48px;
-    @media only screen and (min-width: 1280px) {
-        font-size: 3vw;
-    }
+    font-size: 36px;
 }
-h1, h2 {
-    font-style: italic;
-    font-weight: bold;
+h3 {
+    margin-top:0px;
 }
-.lead {
-    margin-bottom: 15px;
-    @media only screen and (min-width: 1280px) {
-        font-size: 2vw;
-    }
+h4 {
+    font-size:30px;
 }
-.greentext {
-    color:white;
-    font-style:bold;
-    font-size:100px;
-    @media only screen and (min-width: 800px) {
-        font-size: 8vw;
-    }
-}
-.text-centered {
-    text-align: center;
-    vertical-align: middle;
-}
-#grow_good_text {
-    position: absolute;
-    top: 25%;
-    left: 0;
-    right: 0;
-    margin: auto;
-    color:black;
-    font-size: 50px;
-    font-style: italic;
-    font-weight: bold;
-    @media only screen and (min-width: 800px) {
-        font-size: 4vw;
-    }
-}
+
 /* Section maintenance */
 #cover {
     position: fixed;
     height: 100%;
     width: 100%;
     top:0;
-    left: 0;
+    left: 50;
     background:
     white;
     z-index:9999;
@@ -97,10 +62,10 @@ h1, h2 {
     padding-left: 0px;
     padding-right: 0px;
 }
-#grow_good_row {
+#grow_good {
     box-sizing: content-box;
     margin: 0px;
-    min-height: 25vh;
+    height: 25vh;
     width: 100vw;
     background-color: white;
     position: absolute;
@@ -114,12 +79,9 @@ h1, h2 {
     background-color:#B5A2FF;
     border-color:white;
     color:white;
-    font-size: 20px;
+    font-size 20px;
     border-radius:0rem;
-    position: absolute;
-    bottom: 22vh;
-    left: 25vw;
-    z-index: 2
+
 }
 .tab-base {
     padding-top:0px;
@@ -127,6 +89,18 @@ h1, h2 {
 .section-content .row {
     width: 90%;
     margin-left: 5%;
+}
+h1, h2 {
+    font-style: italic;
+    font-weight: bold;
+}
+.greentext {
+    color:white;
+    font-style:bold;
+    font-size:160px;
+}
+.text-centered {
+    text-align: center;
 }
 
 /* Art */
