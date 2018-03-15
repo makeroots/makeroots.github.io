@@ -6041,7 +6041,7 @@ h1, h2 {
   text-align: center;
   vertical-align: middle; }
 
-#grow_good_text {
+.grow_good_text {
   position: absolute;
   top: 25%;
   left: 0;
@@ -6090,7 +6090,7 @@ h1, h2 {
   background-color: white; }
 
 .bg4 {
-  background: linear-gradient(to bottom, transparent, #B5A2FF); }
+  background: linear-gradient(to bottom, transparent, #b5a2ff), url("../img/bg_leaves.jpg"); }
 
 .bg5 {
   background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
@@ -6107,12 +6107,11 @@ h1, h2 {
   padding-left: 0px;
   padding-right: 0px; }
 
-#grow_good_row {
+.grow_good_row, #grow_good_row {
   box-sizing: content-box;
-  margin: 0px;
-  min-height: 25vh;
+  margin-right: 0px;
+  margin-left: 0px;
   width: 100vw;
-  background-color: white;
   position: absolute;
   bottom: 0; }
 
@@ -6130,6 +6129,13 @@ h1, h2 {
   bottom: 22vh;
   left: 25vw;
   z-index: 2; }
+
+.btn_submit {
+  background-color: #B5A2FF;
+  border-color: white;
+  color: white;
+  font-size: 20px;
+  border-radius: 0rem; }
 
 .tab-base {
   padding-top: 0px; }
