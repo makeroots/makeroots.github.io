@@ -6103,7 +6103,7 @@ h3 {
   padding: 30px;
   margin-top: 15px;
   margin-bottom: 15px;
-  height: 92%; }
+  box-sizing: inherit; }
 
 .bgL {
   background-image: url("../img/bg_leaves.jpg"); }
