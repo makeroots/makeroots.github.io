@@ -6120,6 +6120,11 @@ h3 {
 .white {
   color: white; }
 
+@media (max-width: 768px) {
+  .page4_item {
+    max-width: 12vh;
+    max-height: 12vh; } }
+
 .vertical-center-content {
   position: relative;
   top: 50%;
