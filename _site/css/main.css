@@ -6205,9 +6205,9 @@ h1, h2, h3 {
   border-top: 0px; }
 
 .btn-form {
-  background-color: #B5A2FF;
-  border-color: white;
-  color: white;
+  background-color: white;
+  border-color: #B5A2FF;
+  color: #B5A2FF;
   font-size: 20px;
   border-radius: 0rem; }
 
