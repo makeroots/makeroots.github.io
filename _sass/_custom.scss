@@ -11,7 +11,7 @@ h1 {
         font-size: 6vw;
     }
     font-size: 64px;
-    font-size: 6vw;
+    font-size: 5vw;
 }
 h2 {
     @media (max-width:768px) {
@@ -20,14 +20,15 @@ h2 {
     font-size: 48px;
     font-size: 3vw;
 }
-h1, h2 {
-    font-style: italic;
-    font-weight: bold;
-}r
 h3 {
     font-size: 20px;
     font-size: 2vw;
 }
+h1, h2, h3 {
+    font-style: italic;
+    font-weight: bold;
+}
+
 .greentext {
     @media (max-width:768px) {
         font-size: 15vw;
@@ -35,6 +36,7 @@ h3 {
     color:white;
     font-size:160px;
     font-size: 8vw;
+    margin-bottom: 0px;
 }
 .lead {
     @media (max-width:768px) {
@@ -86,11 +88,22 @@ h3 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.right_side_box, .left_side_box {
+    @media (max-width:768px) {
+        margin-bottom: 5px;
+    }
+    margin-bottom: 15px;
+}
 .bg_gradient {
     background: linear-gradient(to bottom, #B5A2FF, #00A86B);
 }
 .bg_box {
     background: #FFFFFF;
+    @media (max-width:768px) {
+        padding: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
     padding: 30px;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -137,24 +150,6 @@ h3 {
     color: #B5A2FF;
     background: #B5A2FF;
 }
-.btn-form{
-    background-color:#B5A2FF;
-    border-color:white;
-    color:white;
-    font-size: 20px;
-    border-radius:0rem;
-    position: absolute;
-    bottom: 22vh;
-    left: 25vw;
-    z-index: 2;
-}
-.btn_submit{
-    background-color:#B5A2FF;
-    border-color:white;
-    color:white;
-    font-size: 20px;
-    border-radius:0rem;
-}
 .tab-base {
     padding-top:0px;
 }
@@ -169,6 +164,12 @@ h3 {
     }
     margin-bottom: 30px;
 }
+.small_bot {
+    @media (max-width:768px) {
+        margin-bottom: 5px;
+    }
+    margin-bottom: 15px;
+}
 .no_bot{
     margin-bottom: 0px;
 }
@@ -178,6 +179,28 @@ h3 {
     }
     margin-bottom: 10px;
 }
+
+/* FORM */
+.form-control, #form_name, #form_email, #form_message {
+    -webkit-appearance: textfield;
+    border-radius: 0rem;
+    border-color: white;
+    background: rgba(255,255,255,0.0);
+    color: rgba(255,255,255,1.0);
+}
+#form_name, #form_email {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.btn-form{
+    background-color:#B5A2FF;
+    border-color:white;
+    color:white;
+    font-size: 20px;
+    border-radius:0rem;
+}
+
 
 /* Art */
 #overlay {

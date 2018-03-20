@@ -6017,7 +6017,7 @@ body, h1, h2, h3, p {
 
 h1 {
   font-size: 64px;
-  font-size: 6vw; }
+  font-size: 5vw; }
   @media (max-width: 768px) {
     h1 {
       font-size: 6vw; } }
@@ -6029,19 +6029,19 @@ h2 {
     h2 {
       font-size: 5vw; } }
 
-h1, h2 {
-  font-style: italic;
-  font-weight: bold; }
-
-r
 h3 {
   font-size: 20px;
   font-size: 2vw; }
 
+h1, h2, h3 {
+  font-style: italic;
+  font-weight: bold; }
+
 .greentext {
   color: white;
   font-size: 160px;
-  font-size: 8vw; }
+  font-size: 8vw;
+  margin-bottom: 0px; }
   @media (max-width: 768px) {
     .greentext {
       font-size: 15vw; } }
@@ -6095,6 +6095,12 @@ h3 {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.right_side_box, .left_side_box {
+  margin-bottom: 15px; }
+  @media (max-width: 768px) {
+    .right_side_box, .left_side_box {
+      margin-bottom: 5px; } }
+
 .bg_gradient {
   background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
 
@@ -6104,6 +6110,11 @@ h3 {
   margin-top: 15px;
   margin-bottom: 15px;
   box-sizing: inherit; }
+  @media (max-width: 768px) {
+    .bg_box {
+      padding: 15px;
+      margin-top: 10px;
+      margin-bottom: 10px; } }
 
 .bgL {
   background-image: url("../img/bg_leaves.jpg"); }
@@ -6152,24 +6163,6 @@ h3 {
   color: #B5A2FF;
   background: #B5A2FF; }
 
-.btn-form {
-  background-color: #B5A2FF;
-  border-color: white;
-  color: white;
-  font-size: 20px;
-  border-radius: 0rem;
-  position: absolute;
-  bottom: 22vh;
-  left: 25vw;
-  z-index: 2; }
-
-.btn_submit {
-  background-color: #B5A2FF;
-  border-color: white;
-  color: white;
-  font-size: 20px;
-  border-radius: 0rem; }
-
 .tab-base {
   padding-top: 0px; }
 
@@ -6183,6 +6176,12 @@ h3 {
     .row {
       margin-bottom: 5px; } }
 
+.small_bot {
+  margin-bottom: 15px; }
+  @media (max-width: 768px) {
+    .small_bot {
+      margin-bottom: 5px; } }
+
 .no_bot {
   margin-bottom: 0px; }
 
@@ -6191,6 +6190,26 @@ h3 {
   @media (max-width: 768px) {
     .form_line {
       margin-bottom: 0px; } }
+
+/* FORM */
+.form-control, #form_name, #form_email, #form_message {
+  -webkit-appearance: textfield;
+  border-radius: 0rem;
+  border-color: white;
+  background: rgba(255, 255, 255, 0);
+  color: white; }
+
+#form_name, #form_email {
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px; }
+
+.btn-form {
+  background-color: #B5A2FF;
+  border-color: white;
+  color: white;
+  font-size: 20px;
+  border-radius: 0rem; }
 
 /* Art */
 #overlay {
