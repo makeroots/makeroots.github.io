@@ -24,8 +24,8 @@ h3 {
     font-size: 20px;
     font-size: 2vw;
 }
-h1, h2, h3 {
-    font-style: normal;
+h1, h3 {
+    font-style: italics;
     font-weight: bold;
 }
 
@@ -47,6 +47,23 @@ h1, h2, h3 {
     font-size: 20px;
     font-size: 2vw;
 }
+.not_lead {
+    @media (max-width:768px) {
+        margin-bottom: 5px;
+        font-size: 4vw;
+    }
+    font-size: 15px;
+    font-size: 1.5vw;
+    font-style: italic;
+}
+.not_h2 {
+    @media (max-width:768px) {
+        font-size: 5.5vw;
+    }
+    font-size: 56px;
+    font-size: 4vw;
+}
+
 .text-centered {
     text-align: center;
     vertical-align: middle;
