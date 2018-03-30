@@ -6015,6 +6015,10 @@ a.text-dark:focus, a.text-dark:hover {
 body, h1, h2, h3, p {
   font-family: Futura; }
 
+@media (max-width: 480px) {
+  #fp-nav {
+    margin-left: -10px; } }
+
 h1 {
   font-size: 64px;
   font-size: 5vw; }
@@ -6034,7 +6038,7 @@ h3 {
   font-size: 2vw; }
 
 h1, h3 {
-  font-style: italics;
+  font-style: italic;
   font-weight: bold; }
 
 .greentext {
@@ -6044,7 +6048,7 @@ h1, h3 {
   margin-bottom: 0px; }
   @media (max-width: 768px) {
     .greentext {
-      font-size: 15vw; } }
+      font-size: 12vw; } }
 
 .lead {
   margin-bottom: 15px;
