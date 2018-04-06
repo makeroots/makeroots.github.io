@@ -6118,11 +6118,11 @@ h4 {
   background-repeat: no-repeat;
   background-size: cover; }
 
-.right_side_box, .left_side_box {
+.square_box, .side_box {
   margin-bottom: 15px;
   padding: 15px; }
   @media (max-width: 768px) {
-    .right_side_box, .left_side_box {
+    .square_box, .side_box {
       margin-bottom: 5px;
       padding: 5px; } }
 
@@ -6137,6 +6137,23 @@ h4 {
   @media (max-width: 768px) {
     .bg_box {
       padding: 15px; } }
+
+@media (min-width: 769px) {
+  .square_container {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    /* 4:3 Aspect Ratio */ } }
+
+.square_box {
+  margin: 0px; }
+  @media (min-width: 769px) {
+    .square_box {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0; } }
 
 .bgL {
   background-image: url("../img/bg_leaves_darker.jpg"); }

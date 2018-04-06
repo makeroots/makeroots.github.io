@@ -111,7 +111,7 @@ h4 {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.right_side_box, .left_side_box {
+.square_box, .side_box {
     @media (max-width:768px) {
         margin-bottom: 5px;
         padding: 5px;
@@ -131,8 +131,22 @@ h4 {
     box-sizing: inherit;
     height: 100%;
 }
+.square_container {
+    @media (min-width:769px) {
+        position: relative;
+        width: 100%;
+        padding-top: 100%; /* 4:3 Aspect Ratio */
+    }
+}
 .square_box {
-    
+    @media (min-width:769px) {
+        position:  absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0; 
+    }
+    margin: 0px;
 }
 .bgL {background-image: url("../img/bg_leaves_darker.jpg");}
 .bg2 {background-color:white;}
