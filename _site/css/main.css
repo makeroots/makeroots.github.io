@@ -6078,6 +6078,9 @@ h4 {
     .not_h2 {
       font-size: 5.5vw; } }
 
+.form_item_title {
+  font-style: normal; }
+
 .text-centered {
   text-align: center;
   vertical-align: middle; }
@@ -6129,7 +6132,8 @@ h4 {
 .bg_box {
   background: #FFFFFF;
   padding: 30px;
-  box-sizing: inherit; }
+  box-sizing: inherit;
+  height: 100%; }
   @media (max-width: 768px) {
     .bg_box {
       padding: 15px; } }
