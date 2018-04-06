@@ -115,26 +115,32 @@ var anchors = [
     <div class="section tab-base ">
       <div class="bg bg2">
     <div class="container section-content">
-        <div class="row vertical-center-content">
+        <div class="row vertical-center-content" style="height:80%;">
             <div class="bg_gradient col-md-5 mx-auto left_side_box">
                 <div class="bg_box bgL">
-                    <h1 class="white">
+                    <h4 class="white">
                         <!--
                         What's the <br>
                         problem with <br>
                         philanthopy? <br>
                         -->
                         What's the problem with philanthropy?
-                    </h1>
+                    </h4>
                 </div>
             </div>
-            <div class="col-md-6 mx-auto right_side_box">
-                <h2 class="not_h2">It's not engaging.</h2>
-                <p class="lead not_lead">Following nonprofits is neither social nor fun.</p>
-                <h2 class="not_h2">It's not trustworthy.</h2>
-                <p class="lead not_lead">It’s hard to know which nonprofits are getting the job done.</p>
-                <h2 class="not_h2">It's not visible.</h2>
-                <p class="lead not_lead">Current social media platforms are drowning out our world’s most valuable problem solvers.</p>
+            <div class="col-md-6 mx-auto right_side_box" style="height:100%">
+                <div class="row" style="height:33%; margin-bottom: 0px">
+                    <h2 class="not_h2">It's not engaging.</h2>
+                    <p class="lead not_lead">Following nonprofits is neither social nor fun.</p>
+                </div>
+                <div class="row" style="height:33%; margin-bottom: 0px">
+                    <h2 class="not_h2">It's not trustworthy.</h2>
+                    <p class="lead not_lead">It’s hard to know which nonprofits are getting the job done.</p>
+                </div>
+                <div class="row" style="height:33%; margin-bottom: 0px">
+                    <h2 class="not_h2">It's not visible.</h2>
+                    <p class="lead not_lead">Current social media platforms are drowning out our world’s most valuable problem solvers.</p>
+                </div>
             </div>
         </div>
     </div>
@@ -148,7 +154,7 @@ var anchors = [
     <div class="container section-content">
         <div class="row vertical-center-content">
             <div class="col-md-5 mx-auto left_side_box">
-                <h1 class="white">Let's change that.</h1>
+                <h4 class="white">Let's change that.</h4>
             </div>
              <div class="bg_gradient col-md-6 mx-auto right_side_box">
                  <div class="bg_box">
@@ -235,7 +241,7 @@ var anchors = [
                 </div>
             </div>
             <div class="row no_bot">
-                <div class="col-md-8 text-centered mx-auto">
+                <div class="col-md-12 text-centered mx-auto">
                     <p class="lead white">
                         If you’re a nonprofit or passionate person, tell us what you think. <br class="d-md-inline d-none">
                         How do you engage with the causes you care about? <br class="d-md-inline d-none">
@@ -244,11 +250,11 @@ var anchors = [
                 </div>
             </div>
             <div class="row d-md-block d-none">
-                <br><br><br>
+                <br><br>
             </div>
             <div class="row no_bot">
                 <div class="col-md-6 text-centered mx-auto">
-                    <h2 class="white no_bot">
+                    <h2 class="white small_bot">
                         Write us a message!
                     </h2>
                 </div>
@@ -261,11 +267,13 @@ var anchors = [
                         <div class="col-md-1 d-md-block d-none">
                         </div>
                         <div class="col-md-5 col-6">
-                            <input id="form_name" name="name" class="form-control" placeholder="Name" data-error="Firstname is required." required>
+                            <p class="lead no_bot white"> Name: </p>
+                            <input id="form_name" name="name" class="form-control" data-error="Firstname is required." required>
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="col-md-5 col-6">
-                            <input id="form_email" name="email" class="form-control" placeholder="Email" data-error="Valid email is required." required>
+                            <p class="lead no_bot white"> Email: </p>
+                            <input id="form_email" name="email" class="form-control" data-error="Valid email is required." required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -273,6 +281,7 @@ var anchors = [
                         <div class="col-md-1 d-md-block d-none">
                         </div>
                         <div class="col-md-10 col-12">
+                            <p class="lead no_bot white"> Message: </p>
                             <textarea id="form_message" name="message" class="form-control" rows="4" data-error="Please,leave us a message." required></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
@@ -285,11 +294,6 @@ var anchors = [
                 </div>
             </form>
         </div>
-        <!-- Footer
-        <div class="row grow_good_row no_bot" style="min-height: 40px;">
-            <h3 class="white" style="font-style: normal">MakeRoots |&nbsp;</h3>
-            <h3 class="white">Grow something good.</h3>
-        </div> -->
     </div>
 </div>
     </div>

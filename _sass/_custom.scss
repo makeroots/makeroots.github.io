@@ -15,8 +15,14 @@ h1 {
     @media (max-width:768px) {
         font-size: 6vw;
     }
-    font-size: 64px;
-    font-size: 5vw;
+    @media (max-width:768px) {
+        font-size: 12vw;
+    }
+    color:white;
+    font-size:160px;
+    font-size: 8vw;
+    font-style: italic;
+    margin-bottom: 0px;
 }
 h2 {
     @media (max-width:768px) {
@@ -29,19 +35,15 @@ h3 {
     font-size: 20px;
     font-size: 2vw;
     font-weight: bold;
-}
-h1, h3 {
     font-style: italic;
 }
-
-.greentext {
+h4 {
     @media (max-width:768px) {
-        font-size: 12vw;
+        font-size: 6vw;
     }
-    color:white;
-    font-size:160px;
-    font-size: 8vw;
-    margin-bottom: 0px;
+    font-size: 64px;
+    font-size: 5vw;
+    font-style: italic;
 }
 .lead {
     @media (max-width:768px) {
@@ -68,7 +70,6 @@ h1, h3 {
     font-size: 56px;
     font-size: 4vw;
 }
-
 .text-centered {
     text-align: center;
     vertical-align: middle;
@@ -99,13 +100,10 @@ h1, h3 {
     white;
     z-index:9999;
 }
-.padder {
-    padding-top: 15vh;
-}
 .bg {
-/* Full height */
+    /* Full height */
     height: 100%;
-/* Center and scale the image nicely */
+    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -113,8 +111,10 @@ h1, h3 {
 .right_side_box, .left_side_box {
     @media (max-width:768px) {
         margin-bottom: 5px;
+        padding: 5px;
     }
     margin-bottom: 15px;
+    padding: 15px;
 }
 .bg_gradient {
     background: linear-gradient(to bottom, #B5A2FF, #00A86B);
@@ -123,17 +123,13 @@ h1, h3 {
     background: #FFFFFF;
     @media (max-width:768px) {
         padding: 15px;
-        margin-top: 10px;
-        margin-bottom: 10px;
     }
     padding: 30px;
-    margin-top: 15px;
-    margin-bottom: 15px;
     box-sizing: inherit;
 }
-.bgL {background-image: url("../img/bg_leaves.jpg");}
+.bgL {background-image: url("../img/bg_leaves_darker.jpg");}
 .bg2 {background-color:white;}
-.bg4 {background: linear-gradient(to bottom,rgba(0,0,0, 0),rgba(181,162,255, 100)),url("../img/bg_leaves.jpg");}
+.bg4 {background: linear-gradient(to bottom,rgba(0,0,0, 0),rgba(181,162,255, 100)),url("../img/bg_leaves_darker.jpg");}
 .bg5 {background: linear-gradient(to bottom, #B5A2FF, #00A86B)}
 
 .white {color: white;}
@@ -179,7 +175,6 @@ h1, h3 {
     width: 90%;
     margin-left: 5%;
 }
-
 .row {
     @media (max-width:768px) {
         margin-bottom: 5px;

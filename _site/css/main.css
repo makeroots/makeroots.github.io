@@ -6020,11 +6020,17 @@ body, h1, h2, h3, p {
     margin-left: -10px; } }
 
 h1 {
-  font-size: 64px;
-  font-size: 5vw; }
+  color: white;
+  font-size: 160px;
+  font-size: 8vw;
+  font-style: italic;
+  margin-bottom: 0px; }
   @media (max-width: 768px) {
     h1 {
       font-size: 6vw; } }
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 12vw; } }
 
 h2 {
   font-size: 48px;
@@ -6035,20 +6041,17 @@ h2 {
 
 h3 {
   font-size: 20px;
-  font-size: 2vw; }
+  font-size: 2vw;
+  font-weight: bold;
+  font-style: italic; }
 
-h1, h3 {
-  font-style: italic;
-  font-weight: bold; }
-
-.greentext {
-  color: white;
-  font-size: 160px;
-  font-size: 8vw;
-  margin-bottom: 0px; }
+h4 {
+  font-size: 64px;
+  font-size: 5vw;
+  font-style: italic; }
   @media (max-width: 768px) {
-    .greentext {
-      font-size: 12vw; } }
+    h4 {
+      font-size: 6vw; } }
 
 .lead {
   margin-bottom: 15px;
@@ -6104,9 +6107,6 @@ h1, h3 {
   background: white;
   z-index: 9999; }
 
-.padder {
-  padding-top: 15vh; }
-
 .bg {
   /* Full height */
   height: 100%;
@@ -6116,10 +6116,12 @@ h1, h3 {
   background-size: cover; }
 
 .right_side_box, .left_side_box {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  padding: 15px; }
   @media (max-width: 768px) {
     .right_side_box, .left_side_box {
-      margin-bottom: 5px; } }
+      margin-bottom: 5px;
+      padding: 5px; } }
 
 .bg_gradient {
   background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
@@ -6127,23 +6129,19 @@ h1, h3 {
 .bg_box {
   background: #FFFFFF;
   padding: 30px;
-  margin-top: 15px;
-  margin-bottom: 15px;
   box-sizing: inherit; }
   @media (max-width: 768px) {
     .bg_box {
-      padding: 15px;
-      margin-top: 10px;
-      margin-bottom: 10px; } }
+      padding: 15px; } }
 
 .bgL {
-  background-image: url("../img/bg_leaves.jpg"); }
+  background-image: url("../img/bg_leaves_darker.jpg"); }
 
 .bg2 {
   background-color: white; }
 
 .bg4 {
-  background: linear-gradient(to bottom, transparent, #b5a2ff), url("../img/bg_leaves.jpg"); }
+  background: linear-gradient(to bottom, transparent, #b5a2ff), url("../img/bg_leaves_darker.jpg"); }
 
 .bg5 {
   background: linear-gradient(to bottom, #B5A2FF, #00A86B); }
