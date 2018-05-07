@@ -1,25 +1,5 @@
-# fullPage Jekyll
+# MakeRoots Landing Page
 
-[fullPage.js](https://github.com/alvarotrigo/fullPage.js) & `Bootstrap 4` template for [Jekyll](jekyllrb.com).
+MakeRoots is a non-profit working to help NGOs efficiently manage donations, volunteers, and work opportunities. This is a landing page to get feedback and messages from prospective partners.
 
-Go to [the website](https://aksakalli.github.io/fullpage-jekyll/) for detailed information and demo.
-
-## Running locally
-
-You need Ruby and gem before starting, then:
-
-```bash
-# install bundler
-gem install bundler
-
-# clone the project
-git clone https://github.com/aksakalli/jekyll-doc-theme.git
-cd jekyll-doc-theme
-
-# run jekyll with dependencies
-bundle exec jekyll serve
-```
-
-## License
-
-Released under [the MIT license](LICENSE).
+Go to MakeRoots.World to view the site.
